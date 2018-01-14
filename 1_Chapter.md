@@ -1,6 +1,4 @@
-//<script type="text/javascript"
-   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>//
+
 # 矩阵与行列式
 
 ## 一、行列式
