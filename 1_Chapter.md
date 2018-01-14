@@ -32,3 +32,4 @@ $$\phi(A)f(A) = f(A)\phi(A)$$
 ##### &emsp;&emsp;(i)\\(A^kA^l = A^{k+l}\\)
 ##### &emsp;&emsp;(ii)\\({(A^k)}^l = A^{kl}\\)
 ### 3.逆矩阵
+$1*2$
